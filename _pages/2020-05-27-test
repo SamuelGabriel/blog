@@ -9,12 +9,12 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Awesome description" />
 <meta property="og:description" content="Awesome description" />
-<link rel="canonical" href="https://samuelgabriel.github.io/blog/_pages/test" />
-<meta property="og:url" content="https://samuelgabriel.github.io/blog/_pages/test" />
+<link rel="canonical" href="https://samuelgabriel.github.io/blog/_pages/2020-05-27-test" />
+<meta property="og:url" content="https://samuelgabriel.github.io/blog/_pages/2020-05-27-test" />
 <meta property="og:site_name" content="fastpages" />
 <meta property="og:image" content="https://samuelgabriel.github.io/blog/images/some_folder/your_image.png" />
 <script type="application/ld+json">
-{"description":"Awesome description","@type":"WebPage","headline":"My Title","image":"https://samuelgabriel.github.io/blog/images/some_folder/your_image.png","url":"https://samuelgabriel.github.io/blog/_pages/test","@context":"https://schema.org"}</script>
+{"description":"Awesome description","@type":"WebPage","headline":"My Title","image":"https://samuelgabriel.github.io/blog/images/some_folder/your_image.png","url":"https://samuelgabriel.github.io/blog/_pages/2020-05-27-test","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/blog/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://samuelgabriel.github.io/blog/feed.xml" title="fastpages" /><link rel="shortcut icon" type="image/x-icon" href="/blog/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>My Title | fastpages</title>
@@ -23,12 +23,12 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Awesome description" />
 <meta property="og:description" content="Awesome description" />
-<link rel="canonical" href="https://samuelgabriel.github.io/blog/_pages/test" />
-<meta property="og:url" content="https://samuelgabriel.github.io/blog/_pages/test" />
+<link rel="canonical" href="https://samuelgabriel.github.io/blog/_pages/2020-05-27-test" />
+<meta property="og:url" content="https://samuelgabriel.github.io/blog/_pages/2020-05-27-test" />
 <meta property="og:site_name" content="fastpages" />
 <meta property="og:image" content="https://samuelgabriel.github.io/blog/images/some_folder/your_image.png" />
 <script type="application/ld+json">
-{"description":"Awesome description","@type":"WebPage","headline":"My Title","image":"https://samuelgabriel.github.io/blog/images/some_folder/your_image.png","url":"https://samuelgabriel.github.io/blog/_pages/test","@context":"https://schema.org"}</script>
+{"description":"Awesome description","@type":"WebPage","headline":"My Title","image":"https://samuelgabriel.github.io/blog/images/some_folder/your_image.png","url":"https://samuelgabriel.github.io/blog/_pages/2020-05-27-test","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
@@ -75,7 +75,7 @@ window.onload = wrap_img;
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/blog/about/">About Me</a><a class="page-link" href="/blog/search/">Search</a><a class="page-link" href="/blog/categories/">Tags</a><a class="page-link" href="/blog/_pages/test">My Title</a></div>
+        <div class="trigger"><a class="page-link" href="/blog/_pages/2020-05-27-test">My Title</a><a class="page-link" href="/blog/about/">About Me</a><a class="page-link" href="/blog/search/">Search</a><a class="page-link" href="/blog/categories/">Tags</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -120,7 +120,7 @@ My equation $x_a=0$.
         theme="github-light"
         crossorigin="anonymous"
         async>
-</script><a class="u-url" href="/blog/_pages/test" hidden></a>
+</script><a class="u-url" href="/blog/_pages/2020-05-27-test" hidden></a>
 </article>
       </div>
     </main><footer class="site-footer h-card">
