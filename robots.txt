@@ -1,1 +1,1 @@
-Sitemap: https://samuelgabriel.github.io/blog/sitemap.xml
+Sitemap: https://uncoolis.cool/sitemap.xml
