@@ -4,7 +4,7 @@ layout: post
 description: A thought on where evolution might lead our planet.
 comments: true
 categories: [markdown]
-title: Long-term Trend of Evolution
+title: Trend of Evolution
 ---
 
 When you see how evolution works and what it  achieved going from molecule structures, which randomly reproduce by docking to atoms they are swimming in, to mammals and plants, which pose diverse assortments of cells which themselves guard the actually reproducing molecules.
