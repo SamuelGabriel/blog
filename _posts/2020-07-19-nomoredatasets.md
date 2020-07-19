@@ -23,5 +23,5 @@ In this last stage I imagine the model to participate in forum discussions, or t
 
 While I describe the stages as if they were clearly separated, they are of course not. Just like for babies. A model that is able to learn from interaction will likely still be able to learn something from only consuming content. 
 
-The purpose of this post is to draw a parallel between the online world and our physical world and to inspire more people to think about ML models as babies on the web, since I really believe that progress can be made if we go forward from our current dataset-centric focus in the machine learning community.
+The purpose of this post is to draw a parallel between the online world and our physical world and to inspire more people to think about ML models as babies on the web, since I really believe that progress can be made if we move forward from our current dataset-centric focus in the machine learning community.
 
