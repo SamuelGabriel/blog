@@ -27,7 +27,7 @@ In the end, I arrived at something trivial. I call it TrivialAugment. I simply t
 
 <img src="https://user-images.githubusercontent.com/9828297/112285487-a82f9c00-8c8a-11eb-83b7-cf3630e63c88.jpeg" width="400">
 
-This works better than most previously proposed complicated methods like the above-mentioned methods, see our [paper](arxiv.org/abs/2103.10158) for thorough experiments.
+This works better than most previously proposed complicated methods like the above-mentioned methods, see our [paper](https://arxiv.org/abs/2103.10158) for thorough experiments.
 
 
 <img src="https://user-images.githubusercontent.com/9828297/112294831-8981d300-8c93-11eb-8ae8-8ea198f89910.jpg" width="400">
