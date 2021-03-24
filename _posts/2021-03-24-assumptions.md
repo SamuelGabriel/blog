@@ -1,9 +1,9 @@
 ---
 toc: true
 layout: post
-description: Question your assumptions!
+description: Or, How Automatic Augmentation Research Forgot to Compare to Baselines.
 comments: true
-categories: [markdown]
+categories: [ML,AI,augmentations,meta-learning]
 title: A Cautionary Tale of Assumptions in ML
 ---
 
