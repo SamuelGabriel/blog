@@ -4,7 +4,7 @@ layout: post
 description: Question your assumptions!
 comments: true
 categories: [markdown]
-title: A Cautionary Tale of Assumptions In ML Research
+title: A Cautionary Tale of Assumptions in ML Research
 ---
 
 In a recent project, I set out to improve training data in an automated fashion.
