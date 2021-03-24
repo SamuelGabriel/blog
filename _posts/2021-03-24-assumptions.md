@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: Or, How Automatic Augmentation Research Forgot to Compare to Baselines.
+description: Or, How Automatic Augmentation Research Forgot to Consider Baselines.
 comments: true
 categories: [ML,AI,augmentations,meta-learning]
 title: A Cautionary Tale of Assumptions in ML
