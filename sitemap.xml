@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://samuelsblog.com/markdown/2020/07/19/nomoredatasets.html</loc>
+<loc>http://samuelsblog.com/markdown/2020/07/19/nomoredatasets.html</loc>
 <lastmod>2020-07-19T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://samuelsblog.com/ml/ai/augmentations/meta-learning/2021/03/24/assumptions.html</loc>
+<loc>http://samuelsblog.com/ml/ai/augmentations/meta-learning/2021/03/24/assumptions.html</loc>
 <lastmod>2021-03-24T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://samuelsblog.com/</loc>
+<loc>http://samuelsblog.com/</loc>
 </url>
 <url>
-<loc>https://samuelsblog.com/search/</loc>
+<loc>http://samuelsblog.com/search/</loc>
 </url>
 <url>
-<loc>https://samuelsblog.com/categories/</loc>
+<loc>http://samuelsblog.com/categories/</loc>
 </url>
 </urlset>

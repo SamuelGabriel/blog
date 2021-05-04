@@ -1,1 +1,1 @@
-Sitemap: https://samuelsblog.com/sitemap.xml
+Sitemap: http://samuelsblog.com/sitemap.xml
